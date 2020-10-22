@@ -81,9 +81,11 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 + All set, now you can enjoy the bloggers view.
 
 # Usage:
-- git clone `https://github.com/Tuhinshubhra/RED_HAWK`
-- cd RED_HAWK
-- php rhawk.php
+```
+   git clone `https://github.com/Tuhinshubhra/RED_HAWK`
+   cd RED_HAWK
+   php rhawk.php
+```
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
 - Select whether The Site Runs On HTTPS or not.
 - Select the type of scan you want to perform
